@@ -1,2 +1,2 @@
-.vcxproj
-Debug
+**/vcxproj
+/Debug
